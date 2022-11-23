@@ -1,4 +1,4 @@
-# NASA SPace Grant Purpose
+# NASA Space Grant Purpose
 Through a grant approval from the NASA SC Space Grant Consortium, I have been able to teach game design to high schoolers across South Carolina.
 This codebase is being used as supplmentary material to assist with a live lesson and teaching that I provide on behalf of this grant
 
